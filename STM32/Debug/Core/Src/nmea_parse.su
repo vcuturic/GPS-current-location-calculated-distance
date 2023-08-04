@@ -1,0 +1,3 @@
+../Core/Src/nmea_parse.c:25:5:parse_GPGGA	32	static
+../Core/Src/nmea_parse.c:55:7:prepareData	32	static
+../Core/Src/nmea_parse.c:73:6:nmea_parse	32	static
